@@ -1,5 +1,7 @@
 NFT with Hardhat | OpenZeppelin ERC721 Tutorial
 
+https://youtu.be/pQ4W1hZMp6c 
+ 
 Learn how to use a token template to customize your own NFT! Build a Non-Fungible Token in your smart contract blockchain project. Use OpenZeppelin, the most popular library for secure blockchain applications!
 
 Build a Solidity Smart Contract with Alexandra Kropova from Mammoth Interactive.
